@@ -26,11 +26,15 @@ Display the result to the user, ensuring to handle division by zero and invalid 
 Key Activities
 
 User Input: The program prompts the user to input two numbers and select an arithmetic operation.
+
 Operation Execution: It performs the chosen operation (addition, subtraction, multiplication, division) using a switch statement.
+
 Result Display: The program displays the result or an error message if an invalid operation is chosen or if division by zero is attempted.
 
 Technologies Used
 
 Java Programming Language: Utilized for developing the calculator application with its object-oriented capabilities and strong type system.
+
 Scanner Class: From the java.util package, used to capture user input from the console.
+
 Control Structures: Including switch statements and conditional checks to manage user choices and ensure proper operation execution.
